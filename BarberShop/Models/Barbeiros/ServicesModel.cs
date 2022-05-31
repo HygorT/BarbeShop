@@ -1,6 +1,6 @@
 ﻿namespace BarberShop.Models.Barbeiros
 {
-    public class Services
+    public class ServicesModel
     {
         public int Service_Id { get; set; }
         public bool Cabelo { get; set; }

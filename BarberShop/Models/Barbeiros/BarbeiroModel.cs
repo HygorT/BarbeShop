@@ -4,7 +4,7 @@
     {
         public int Barbeiro_Id { get; set; }
         public string Name { get; set; }
-        public Services Servicos { get; set; }
+        public ServicesModel Servicos { get; set; }
         public bool Status { get; set; }
     }
 }
